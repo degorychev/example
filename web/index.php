@@ -1,26 +1,17 @@
-<?php  ?>
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-
     <title>Half Slider - Start Bootstrap Template</title>
-
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css" />
-
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="css/half-slider.css" />
-
   </head>
-
   <body>
-
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
@@ -112,5 +103,4 @@
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   </body>
-
 </html>
