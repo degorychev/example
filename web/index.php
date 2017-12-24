@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <title>Half Slider - Start Bootstrap Template</title>
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" />
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="css/half-slider.css" />
   </head>
@@ -99,8 +99,8 @@
     </footer>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="jquery/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
 
   </body>
 </html>
